@@ -25,4 +25,4 @@ Currently, I build "Digital Employees" and zero-latency workflows for US Healthc
 ### 📫 Let's Connect & Build
 - 🌐 **Portfolio:** [shubhamsolat.vercel.app](https://shubhamsolat.vercel.app/)
 - 💼 **LinkedIn:** [in/shubham-solat](https://www.linkedin.com/in/shubham-solat-010b66248)
-- 📧 **Email:** services.shubhstra@gmail.com
+- 📧 **Email:** shubhamsolat36@gmail.com
