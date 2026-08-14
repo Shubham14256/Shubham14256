@@ -1,5 +1,5 @@
 ## Hi, I'm Shubham Solat 🚀
-**AI & Full-Stack Engineer | Founder @ Shubhstra Tech(College Startup)**
+**AI & Full-Stack Engineer |Founding Engineer @ Shubhstra Tech**
 
 I specialize in architecting autonomous multi-agent systems and high-throughput backend infrastructure. I thrive in high-ownership, fast-shipping environments, bridging the gap between complex AI models and real-world business bottlenecks.
 
