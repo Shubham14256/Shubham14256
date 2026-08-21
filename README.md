@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=700&lines=Hello%2C+it's+me%2C+ell;I'm+a+Fullstack+SDE%2C+Data+Analyst%2C+and+AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=700&lines=Hello%2C+it's+me%2C+shubham;I'm+a+Fullstack+SDE%2C+Data+Analyst%2C+and+AI%2FML+Enthusiast" alt="Typing SVG" />
 </a>
 
 ## Hi, I'm Shubham Solat 🚀
