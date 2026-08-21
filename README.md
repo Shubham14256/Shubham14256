@@ -14,7 +14,7 @@ Currently, I build "Digital Employees" and zero-latency workflows for US Healthc
 ---
 
 ### 🛠️ The Technical Arsenal
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,ts,js,dart,html,css,latex,pytorch,tensorflow,opencv,fastapi,react,next,flutter,tailwind,postgres,mysql,redis,supabase,firebase,grafana,docker,postman,github,git,discord,bots,fiCrewAI, LangChain, OpenAI/Gemini, Model Context Protocol)](https://skillicons.dev)
+
 - **AI & Agentic Workflows:** CrewAI, LangChain, OpenAI/Gemini, Model Context Protocol (MCP)
 - **Backend Engineering:** FastAPI, Node.js, Express.js, Python, REST/Webhooks
 - **Frontend & Web:** Next.js, React.js, TypeScript, Tailwind CSS
