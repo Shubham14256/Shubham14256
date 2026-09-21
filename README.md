@@ -8,7 +8,7 @@
 **Hi, I'm Shubham Solat 🚀"
 "Software Engineer | Builder | Technical Founder**
 
-Shubhstra Tech (Founder): Architected and deployed an autonomous GenAI CRM, automating 80% of client operations using Next.js, Node.js, and LLM webhooks.
+Shubhstra Tech: Architected and deployed an autonomous GenAI CRM, automating 80% of client operations using Next.js, Node.js, and LLM webhooks.
 
 Agentic Execution Engines: Built high-throughput Model Context Protocol (MCP) servers and bi-directional WebSocket streaming pipelines achieving sub-50ms latency.
 
