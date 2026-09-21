@@ -36,4 +36,4 @@ Agentic Execution Engines: Built high-throughput Model Context Protocol (MCP) se
 - 📧 **Email:** shubhamsolat36@gmail.com
 - Open to Software Engineering Internships / Full Time Roles!
 
-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
