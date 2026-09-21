@@ -5,7 +5,6 @@
 </a>
 
 ## Hi, I'm Shubham Solat 🚀
-**Hi, I'm Shubham Solat 🚀"
 "Software Engineer | Builder | Technical Founder**
 
 Shubhstra Tech: Architected and deployed an autonomous GenAI CRM, automating 80% of client operations using Next.js, Node.js, and LLM webhooks.
