@@ -8,9 +8,7 @@
 **Hi, I'm Shubham Solat 🚀"
 "Software Engineer | Builder | Technical Founder**
 
-I specialize in architecting autonomous multi-agent systems and high-throughput backend infrastructure. I thrive in high-ownership, fast-shipping environments, bridging the gap between complex AI models and real-world business bottlenecks.
-
-Currently, I build "Digital Employees" and zero-latency workflows for US Healthcare and global logistics.
+I build production-grade, autonomous systems. As a CS undergrad and Technical Founder, I don't just clear Jira tickets—I take extreme ownership of the products I ship. I thrive in high-velocity environments, bridging the gap between complex engineering problems and real-world impact.
 
 ---
 
