@@ -8,7 +8,9 @@
 **Hi, I'm Shubham Solat 🚀"
 "Software Engineer | Builder | Technical Founder**
 
-I build production-grade, autonomous systems. As a CS undergrad and Technical Founder, I don't just clear Jira tickets—I take extreme ownership of the products I ship. I thrive in high-velocity environments, bridging the gap between complex engineering problems and real-world impact.
+Shubhstra Tech (Founder): Architected and deployed an autonomous GenAI CRM, automating 80% of client operations using Next.js, Node.js, and LLM webhooks.
+
+Agentic Execution Engines: Built high-throughput Model Context Protocol (MCP) servers and bi-directional WebSocket streaming pipelines achieving sub-50ms latency.
 
 ---
 
@@ -32,5 +34,6 @@ I build production-grade, autonomous systems. As a CS undergrad and Technical Fo
 - 🌐 **Portfolio:** [shubhamsolat.vercel.app](https://shubhamsolat.vercel.app/)
 - 💼 **LinkedIn:** [in/shubham-solat](https://www.linkedin.com/in/shubham-solat-010b66248)
 - 📧 **Email:** shubhamsolat36@gmail.com
+- Open to Software Engineering Internships / Full Time Roles!
 
 - <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
