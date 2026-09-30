@@ -14,7 +14,7 @@ I am an engineering undergrad obsessed with building highly scalable backend sys
 
 ---
 
-### Engineering & Shipping
+### Engineering & Shipping 🚀
 
 * **Shubhstra Tech (Founder):** Architected and deployed a production-grade, autonomous GenAI CRM, automating 80% of client operations using Next.js, Node.js, and LLM webhooks.
 * **Backend & AI Orchestration:** Engineered fault-tolerant Node.js and PostgreSQL backends, seamlessly integrating GenAI models via decoupled asynchronous queues and strict webhook idempotency.
