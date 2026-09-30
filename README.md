@@ -7,7 +7,10 @@
 ## ## Hi, I'm Shubham Solat 🚀
 **CS Undergrad | Backend & AI Systems Engineer | Technical Founder**
 
-I am an IT Engineering undergrad obsessed with building highly scalable backend systems and AI architectures. In my sophomore year, I founded Shubhstra Tech to bridge the gap between academic theory and real-world execution. Today, I bring a unique blend of a founder's velocity and an engineer's obsession with code quality. **I am actively seeking Software Engineering Internships/Junior**, to tackle complex architectural challenges at scale.
+I am an IT Engineering undergrad obsessed with building highly scalable backend systems and AI architectures. 
+In my sophomore year, I founded Shubhstra Tech to bridge the gap between academic theory and real-world execution. 
+Today, I bring a unique blend of a founder's velocity and an engineer's obsession with code quality. 
+**I am actively seeking Software Engineering Internships/Junior Role IN High Velocity Startups**, to tackle complex architectural challenges at scale.
 
 **Shubhstra Tech:** Architected and deployed an autonomous GenAI CRM, automating 80% of client operations using Next.js, Node.js, and LLM webhooks.
 
