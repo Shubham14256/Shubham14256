@@ -6,22 +6,19 @@
 
 # Hi, I'm Shubham Solat 🚀
 
-### CS Undergrad  | Backend & AI Systems Engineer | Technical Founder
+**Backend & AI Systems Engineer | Technical Founder**
 
-I am an IT Engineering undergrad obsessed with building highly scalable backend systems and AI architectures. In my sophomore year, I founded **Shubhstra Tech** to bridge the gap between academic theory and real-world execution. 
+I am an engineering undergrad obsessed with building highly scalable backend systems and autonomous AI architectures. In my sophomore year, I founded Shubhstra Tech to bridge the gap between academic theory and real-world execution. Today, I combine a founder's bias for action with an engineer's absolute rigor for code quality and fault tolerance. 
 
-Today, I bring a unique blend of a founder's velocity and an engineer's obsession with code quality. 
-
-**Actively seeking Software Engineering Internships / Junior Roles in high-velocity startups (2027)** to tackle complex architectural challenges at scale.
+**Objective:** Actively seeking Software Engineering Internships or Junior Backend Roles (2027) in high-velocity startups to tackle complex architectural challenges at scale.
 
 ---
 
-### 🚀 What I'm Building & Shipping
+### Engineering & Shipping
 
-**Shubhstra Tech (Founder):** Architected and deployed an autonomous GenAI CRM, automating 80% of client operations using Next.js, Node.js, and LLM webhooks.
-**Agentic Execution Engines:** Built high-throughput Model Context Protocol (MCP) servers and bi-directional WebSocket streaming pipelines achieving sub-50ms latency.
-**Backend & AI Orchestration:** Engineered fault-tolerant Node.js & PostgreSQL backends seamlessly integrating GenAI models via decoupled asynchronous queues and strict webhook idempotency.
-- **Route-Rakshak:** Engineered a 4-agent autonomous logistics system for predictive maintenance and load matching.
+* **Shubhstra Tech (Founder):** Architected and deployed a production-grade, autonomous GenAI CRM, automating 80% of client operations using Next.js, Node.js, and LLM webhooks.
+* **Backend & AI Orchestration:** Engineered fault-tolerant Node.js and PostgreSQL backends, seamlessly integrating GenAI models via decoupled asynchronous queues and strict webhook idempotency.
+* **Agentic Execution Engines:** Built high-throughput Model Context Protocol (MCP) servers and bi-directional WebSocket streaming pipelines achieving sub-50ms latency.
 
 ---
 
