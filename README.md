@@ -6,7 +6,7 @@
 
 # Hi, I'm Shubham Solat 🚀
 
-**Backend & AI Systems Engineer | Technical Founder**
+**Backend & AI Systems Engineer**
 
 I am an engineering undergrad obsessed with building highly scalable backend systems and autonomous AI architectures. In my sophomore year, I founded Shubhstra Tech to bridge the gap between academic theory and real-world execution. Today, I combine a founder's bias for action with an engineer's absolute rigor for code quality and fault tolerance. 
 
